@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jacoby Stewart
+**Computer Science | SQL | Data Systems**
 
-<!--
-**J21stew/J21stew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="25%"><strong>Tech & Innovation Society</strong></td>
+<td width="75%">
+Co-Founder & Vice President - Centenary University
+Building a campus community focused on practical technical development (Git, SQL, Python, Web).
+</td>
+</tr>
+</table>
+
+---
